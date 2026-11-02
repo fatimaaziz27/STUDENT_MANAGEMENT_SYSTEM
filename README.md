@@ -1,5 +1,3 @@
-
-
 # Student Management System
 
 A simple, menu-driven Student Management System built using Python to manage student records, calculate percentages, and perform basic record management operations.
