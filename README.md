@@ -25,36 +25,6 @@ The system calculates each student's percentage based on their obtained marks an
 - Limit the system to 10 students
 - Handle invalid menu choices
 
-## How It Works
-
-### 1. Add Student
-
-The user enters a student's roll number, name, obtained marks, and total marks. The system checks for duplicate roll numbers and validates the marks before saving the record.
-
-### 2. Show All Students
-
-Displays all registered students, including their roll numbers, names, obtained marks, and percentages.
-
-### 3. Search Student
-
-Allows the user to find a student using their roll number and view their complete marks information.
-
-### 4. Update Student
-
-Allows the user to update a student's name, obtained marks, and total marks. The percentage is recalculated automatically.
-
-### 5. Delete Student
-
-Removes a student record from the system using the student's roll number.
-
-## Percentage Calculation
-
-The system calculates the percentage using this formula:
-
-```text
-Percentage = (Obtained Marks / Total Marks) × 100
-```
-
 **Example:**
 
 - Obtained marks: 450
