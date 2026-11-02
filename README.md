@@ -25,28 +25,6 @@ The system calculates each student's percentage based on their obtained marks an
 - Limit the system to 10 students
 - Handle invalid menu choices
 
-## Technologies Used
-
-- Python
-
-## Python Concepts Practiced
-
-- Variables and data types
-- Lists
-- Dictionaries
-- Functions
-- `while` loops
-- `for` loops
-- Conditional statements
-- User input using `input()`
-- Type conversion using `float()`
-- List methods such as `append()` and `remove()`
-- Dictionary operations
-- F-strings
-- The `round()` function
-- Arithmetic operations
-- Input validation
-
 ## How It Works
 
 ### 1. Add Student
