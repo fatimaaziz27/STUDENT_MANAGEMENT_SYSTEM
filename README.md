@@ -96,31 +96,6 @@ The percentage is rounded to two decimal places.
 | 4 | Update Student |
 | 5 | Delete Student |
 
-## How to Run
-
-1. Clone or download the repository.
-2. Open the project folder in your code editor.
-3. Make sure Python is installed.
-4. Run the following command in the terminal:
-
-```bash
-python Student_Management_System.py
-```
-
-## Data Storage
-
-The application uses a Python list containing dictionaries to store student information.
-
-Each student record includes:
-
-- Roll number
-- Name
-- Obtained marks
-- Total marks
-- Percentage
-
-The data is stored in memory and is lost when the program closes.
-
 ## Purpose
 
 This project was created to practice Python programming fundamentals by building a practical student record management application.
