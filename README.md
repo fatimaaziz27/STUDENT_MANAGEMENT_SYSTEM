@@ -25,25 +25,6 @@ The system calculates each student's percentage based on their obtained marks an
 - Limit the system to 10 students
 - Handle invalid menu choices
 
-**Example:**
-
-- Obtained marks: 450
-- Total marks: 500
-- Percentage: 90%
-
-The percentage is rounded to two decimal places.
-
-## Menu Options
-
-| Option | Function |
-|---|---|
-| 0 | Exit |
-| 1 | Add Student |
-| 2 | Show All Students |
-| 3 | Search Student |
-| 4 | Update Student |
-| 5 | Delete Student |
-
 ## Purpose
 
 This project was created to practice Python programming fundamentals by building a practical student record management application.
