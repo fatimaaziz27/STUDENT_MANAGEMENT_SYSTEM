@@ -124,13 +124,3 @@ The data is stored in memory and is lost when the program closes.
 ## Purpose
 
 This project was created to practice Python programming fundamentals by building a practical student record management application.
-
-## Future Improvements
-
-- Save student records permanently using file handling
-- Connect the system to a database
-- Add student grades
-- Sort students by percentage
-- Generate result reports
-- Improve input validation
-- Create a graphical user interface
